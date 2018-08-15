@@ -1,0 +1,14 @@
+{
+  "name": "realexample",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
